@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <string name="add_task_hint">Add a new task</string>
+    <string name="complete_task">Complete Task</string>
+    <string name="delete_task">Delete Task</string>
+</resources>
